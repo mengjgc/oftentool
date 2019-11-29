@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cloudwalk.credit.oftentool.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cloudwalk.credit.oftentool.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cloudwalk.credit.oftentool.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cloudwalk.credit.oftentool.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cloudwalk.credit.oftentool.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cloudwalk.credit.oftentool.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/oftentool.iml" filepath="$PROJECT_DIR$/.idea/oftentool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.my.xa.oftentool.iml" filepath="$PROJECT_DIR$/.idea/modules/com.my.xa.oftentool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.my.xa.oftentool.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.my.xa.oftentool.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.my.xa.oftentool.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.my.xa.oftentool.test.iml" />
     </modules>
   </component>
 </project>

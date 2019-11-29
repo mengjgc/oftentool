@@ -12,7 +12,7 @@ import java.security.MessageDigest;
 import java.text.DecimalFormat;
 /***
  * 
- * @author xuyilu@cloudwalk.cn
+ * @author xuyilu
  * @describe 按照行数分割数据文件
  *
  */

@@ -11,13 +11,13 @@ plugins {
     id 'java'
 }
 
-group 'com.xabkwd'
+group 'com.my'
 version '1.0'
 
 sourceCompatibility = '1.11'
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
 
-group 'com.cloudwalk.credit'
+group 'com.my.xa'
 version '1.0'
 
 apply plugin: 'java'
