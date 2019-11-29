@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lowagie.text:com.springsource.com.lowagie.text:2.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/f5329a69d2255d15f76ed86247ac407c7cec17df/com.springsource.com.lowagie.text-2.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lowagie.text/com.springsource.com.lowagie.text/2.0.8/eef7e7c11d82fe27b7efd52fcce1c7a209135292/com.springsource.com.lowagie.text-2.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

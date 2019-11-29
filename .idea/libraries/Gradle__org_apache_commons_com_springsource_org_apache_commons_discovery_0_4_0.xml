@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.commons:com.springsource.org.apache.commons.discovery:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.discovery/0.4.0/b37593b2126dffe1e0d7da4804e96265091ea2fe/com.springsource.org.apache.commons.discovery-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.discovery/0.4.0/3dcc72c8e97926f2e97ceabd33fc9d41a71c2182/com.springsource.org.apache.commons.discovery-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

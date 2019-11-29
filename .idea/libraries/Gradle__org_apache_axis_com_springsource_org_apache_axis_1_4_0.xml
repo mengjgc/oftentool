@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.axis:com.springsource.org.apache.axis:1.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.axis/com.springsource.org.apache.axis/1.4.0/1c616cddbf3861e314978af6b6449fdbe6a489ab/com.springsource.org.apache.axis-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.axis/com.springsource.org.apache.axis/1.4.0/67de668f58f821d745033deeacaba912a2d0410/com.springsource.org.apache.axis-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

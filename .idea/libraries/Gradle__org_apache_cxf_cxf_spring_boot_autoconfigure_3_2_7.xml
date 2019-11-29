@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.cxf:cxf-spring-boot-autoconfigure:3.2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-spring-boot-autoconfigure/3.2.7/9384337ad31f290a08d76a40ba3311198fbbb286/cxf-spring-boot-autoconfigure-3.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-spring-boot-autoconfigure/3.2.7/fb64b25cda612d14d762d0fe7514f3175285b4f2/cxf-spring-boot-autoconfigure-3.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

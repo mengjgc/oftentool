@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.cxf:cxf-rt-bindings-soap:3.2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-rt-bindings-soap/3.2.7/487c1e00861f2c45c2dfb001a064f4e296e4fff1/cxf-rt-bindings-soap-3.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-rt-bindings-soap/3.2.7/e59a9604782f68827a6421a0799e5185724f4f1/cxf-rt-bindings-soap-3.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

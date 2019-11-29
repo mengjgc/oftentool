@@ -2,19 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="cloudwcBatch.com.cloudwalk.credit.cloudwc.main" target="11" />
-      <module name="cloudwcBatch.com.cloudwalk.credit.cloudwc.test" target="11" />
-      <module name="cloudwcBatch.com.cloudwalk.credit.cloudwcBatch.main" target="11" />
-      <module name="cloudwcBatch.com.cloudwalk.credit.cloudwcBatch.test" target="11" />
-      <module name="com.cloudwalk.credit.cloudwc.querydsl" target="11" />
-      <module name="com.cloudwalk.credit.cloudwcBatch.main" target="11" />
-      <module name="com.cloudwalk.credit.cloudwcBatch.test" target="11" />
-      <module name="com.cloudwalk.credit.oftentoo.main" target="11" />
-      <module name="com.cloudwalk.credit.oftentoo.test" target="11" />
       <module name="com.cloudwalk.credit.oftentool.main" target="11" />
       <module name="com.cloudwalk.credit.oftentool.test" target="11" />
-      <module name="com.cloudwalk.credit.xabkdatahandler.main" target="11" />
-      <module name="com.cloudwalk.credit.xabkdatahandler.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
