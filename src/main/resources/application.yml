@@ -1,0 +1,78 @@
+server:
+    port: 9898
+    tomcat:
+        max-http-post-size: 102400000
+spring:
+    datasource:
+        driver-class-name: oracle.jdbc.OracleDriver
+        url: jdbc:oracle:thin:@localhost:1521/ORCL
+        username: system
+        password: 123456
+        sql-script-encoding: utf-8
+        tomcat:
+            max-wait: 1000
+            max-active: 50
+            test-on-borrow: true
+        hikari:
+            connection-test-query: SELECT 1 FROM DUAL
+            maximum-pool-size: 200
+            minimum-idle: 50
+    mvc:
+        date-format: yyyy-MM-dd HH:mm:ss
+    jpa:
+        generate-ddl: true
+        hibernate:
+            ddl-auto: update
+            naming:
+                physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+        show-sql: true
+        open-in-view: false
+    http:
+        encoding:
+            force: true
+    jackson:
+        time-zone: GMT+8
+        date-format: yyyy-MM-dd HH:mm:ss
+logging:
+    file: ./logs/xabk/SystemOut.log
+    path: ./logs/xabk
+    level:
+        root: INFO
+        org.springframework.cloud.task: DEBUG
+xabk:
+    tra:
+        nodeNo: 990011
+        strideTellNo: M0058
+        innerTellNo: M0058
+    exportData:
+        cronTime: "0 39 13 * * * "
+        taskName: "exportData"
+        taskDesc: "数据导出"
+        taskSerilano: "wdRiskData"
+        taskOnOrOff: "off"
+        separator: "|"
+        encode: "UTF-8"
+        filePath: "./temp.txt"
+    importData:
+        cronTime: "0 41 17 * * * "
+        taskName: "inportData"
+        taskDesc: "数据导入"
+        taskSerilano: "importData"
+        taskOnOrOff: "on"
+        separator: ","
+        encode: "UTF-8"
+        filePath: "D:/temp.txt"
+    SFTP:
+        cronTime: "0 39 13 * * * "
+        taskName: "文件上传/下载"
+        taskOnOrOff: "on"
+        # download 下载  upload 上传
+        sendType: "upload"
+        localPath: ""
+        remotePath: ""
+        IP: ""
+        port: ""
+        username: ""
+        password: ""
+        dirName: "{@businessDate}" #{@businessDate} 当日  {@nextBusinessDate} 下一日 {@beforeBusinessDate} 上一日
+
