@@ -26,10 +26,10 @@ apply plugin: "org.springframework.boot"
 apply plugin: 'io.spring.dependency-management'
 apply plugin: 'application'
 
-mainClassName = "com.xabkwd.credit.xa.core.application.CoreApplication"
+mainClassName = "com.my.xa.core.application.CoreApplication"
 
 if (!hasProperty('mainClass')) {
-    ext.mainClass = 'com.xabkwd.credit.xa.core.application.CoreApplication'
+    ext.mainClass = 'com.my.xa.core.application.CoreApplication'
 }
 
 dependencyManagement {

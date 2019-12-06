@@ -40,10 +40,6 @@ logging:
         root: INFO
         org.springframework.cloud.task: DEBUG
 xabk:
-    tra:
-        nodeNo: 990011
-        strideTellNo: M0058
-        innerTellNo: M0058
     exportData:
         cronTime: "0 39 13 * * * "
         taskName: "exportData"

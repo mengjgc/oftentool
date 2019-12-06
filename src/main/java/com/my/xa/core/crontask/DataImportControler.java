@@ -4,7 +4,6 @@ package com.my.xa.core.crontask;
 import com.my.xa.core.utills.ConfiguraData;
 import com.my.xa.core.utills.ConfiguraDataRepository;
 import com.my.xa.core.utills.DateHelper;
-import com.xabkwd.credit.xa.core.utills.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;

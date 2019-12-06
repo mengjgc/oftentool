@@ -2,7 +2,6 @@ package com.my.xa.core.crontask;
 
 
 import com.my.xa.core.utills.*;
-import com.xabkwd.credit.xa.core.utills.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
